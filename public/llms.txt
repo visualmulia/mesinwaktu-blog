@@ -1,0 +1,10 @@
+# MesinWaktu
+Eksplorasi kecerdasan buatan, tren teknologi masa depan, dan panduan praktis pemanfaatan AI untuk melipatgandakan produktivitas Anda.
+
+## Core Pages
+- [Beranda](https://www.mesinwaktu.web.id/) - Halaman utama eksplorasi AI.
+- [Tentang Kami](https://www.mesinwaktu.web.id/#about) - Informasi tentang redaksi MesinWaktu.
+- [Kontak](https://www.mesinwaktu.web.id/contact) - Hubungi kami.
+- [Disclaimer](https://www.mesinwaktu.web.id/disclaimer) - Sangkalan hukum.
+- [Privacy Policy](https://www.mesinwaktu.web.id/privacy) - Kebijakan privasi.
+- [Terms of Service](https://www.mesinwaktu.web.id/terms) - Syarat & ketentuan.
