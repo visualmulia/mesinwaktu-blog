@@ -1,12 +1,15 @@
 ---
-title: "Cara Menggunakan AI untuk Otomatisasi Kerja: Panduan Lengkap Tingkatkan Produktivitas"
-date: "2026-07-14"
-author: "Admin"
-featured_image: ""
+title: "Cara Menggunakan AI untuk Otomatisasi Kerja: Panduan Lengkap Tingkatkan
+  Produktivitas"
+date: 2026-07-14
+author: Mesin Waktu
+featured_image: /images/uploads/01-2-.png
+description: Pelajari cara menggunakan AI untuk otomatisasi kerja secara
+  efektif. Panduan lengkap mencakup alur kerja AI, tools terbaik, dan tips
+  implementasi untuk bisnis modern.
 tags:
-  - "AI"
-  - "otomatisasi kerja"
-description: "Pelajari cara menggunakan AI untuk otomatisasi kerja secara efektif. Panduan lengkap mencakup alur kerja AI, tools terbaik, dan tips implementasi untuk bisnis modern."
+  - AI
+  - otomatisasi kerja
 ---
 
 ## Pendahuluan
