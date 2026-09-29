@@ -1,12 +1,14 @@
 ---
 title: "Cara Otomatisasi Email Marketing Menggunakan AI: Panduan Lengkap 2025"
-date: "2026-09-28"
-author: "Admin"
-featured_image: ""
+date: 2026-09-28
+author: Admin
+featured_image: /images/uploads/cara-otomatisasi-email-dengan-menggunakan-ai.jpg
+description: Pelajari cara otomatisasi email marketing menggunakan AI untuk
+  personalisasi, prediksi perilaku, dan konten otomatis. Tingkatkan konversi
+  dengan panduan praktis ini.
 tags:
-  - "Email Marketing"
-  - "AI"
-description: "Pelajari cara otomatisasi email marketing menggunakan AI untuk personalisasi, prediksi perilaku, dan konten otomatis. Tingkatkan konversi dengan panduan praktis ini."
+  - Email Marketing
+  - AI
 ---
 
 ## Apa Itu Otomatisasi Email Marketing dengan AI?
